@@ -10,5 +10,4 @@ public class Product
 
     // Propriedades de navegação
     public Category? Category { get; set; }
-    public int CategoryId { get; set; }
 }
