@@ -5,6 +5,7 @@ namespace VShop.ProductApi.DTOs
 {
     public class CategoryDTO
     {
+        public int Id { get; set; }
         [Required(ErrorMessage = "Field name is required")]
         [MinLength(3)]
         [MaxLength(100)]
