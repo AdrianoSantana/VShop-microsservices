@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MXTvTeL7lQAhrgT8CdGuiWloAzTHWNDTcFIPj3O1N15BnAlO9hWoGsKeJJvN0ZntENKXfRDKjgvX/It6+lmvIg==",
+  "dgSpecHash": "sSsV+8/glY3BaFoPbzX1KotE7XcpcRxn6oaxzWYp+PYkW0zpLY4PV+hmfRGPWX37aswPjBQwYROjZLNGsjbf3w==",
   "success": true,
   "projectFilePath": "/home/adrianosantana/Estudos/microservicos/macoratti-curso/VShop.ProductApi/VShop.ProductApi.csproj",
   "expectedPackageFiles": [
+    "/home/adrianosantana/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/home/adrianosantana/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/adrianosantana/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/adrianosantana/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/adrianosantana/.nuget/packages/microsoft.entityframeworkcore/6.0.10/microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "/home/adrianosantana/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.10/microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "/home/adrianosantana/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.10/microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
